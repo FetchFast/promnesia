@@ -42,6 +42,7 @@ for (name, description), vals in setup.DEPS_SOURCES.items():
 
 Alternatively, you can just install all of them in bulk: ~pip3 install --user promnesia[all]~.
 
+- note, on OSX, run $bash first as zsh doesn't recognise the [brackets]
 
 * Sources
 
